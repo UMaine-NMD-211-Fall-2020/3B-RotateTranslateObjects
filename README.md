@@ -4,6 +4,7 @@ Learn how to rotate and translate objects
 ## DETAILS COMING SOON
 
 ## END CODE
+```processing
 int shapeRad = 50;
 int pathRad = 200;
 
@@ -35,3 +36,4 @@ void draw(){
   
   currentRotation +=1;
 }
+```
