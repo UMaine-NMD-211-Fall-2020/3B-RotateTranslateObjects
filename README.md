@@ -14,7 +14,17 @@ An example image/ set of moving images with
 
 Create something that is more than the example, something you want to turn in and share, not just the token motions shown in my example. 
 ## Concept Walk Through via Code
-
+### Code Set Up
+1. Comment section
+2. Void setup & draw plain bakground
+3. Circle 1 for reference @ 0,0
+4. Circle 2, move via translate
+5. Rect 1, draw
+6. Rect 1 is in wrong location! Push and pop for circle 2.
+7. Rect 2, push & pop
+8. Rect 2, rotation
+9. Rect 2, translation
+10. Fiddling with distance from center of rotation
 ## Example End Code
 ```processing
 /*   3B - NMD 211 
