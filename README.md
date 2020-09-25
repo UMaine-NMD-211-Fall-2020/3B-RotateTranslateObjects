@@ -540,5 +540,5 @@ void draw(){
 ```
 
 ## Submit Via Github
-For those of you who want to submit this lab via Github, submit below
+For those of you who want to submit this lab via Github, submit below by adding a link to your github repository for the lab. 
 - [Lab3B-FirstNameLastName](http://example.com)
