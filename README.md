@@ -1,6 +1,11 @@
 # 3B-RotateTranslateObjects
 Learn how to rotate and translate objects
 
+Concepts covered
+- translation
+- rotation
+- push & pop
+
 ## To Turn In
 An example image/ set of moving images with
 - translation
@@ -8,7 +13,7 @@ An example image/ set of moving images with
 - push and pop obviously happening
 
 Create something that is more than the example, something you want to turn in and share, not just the token motions shown in my example. 
-## Code Example Walkthrough
+## Concept Walk Through via Code
 
 ## Example End Code
 ```processing
