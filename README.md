@@ -28,6 +28,27 @@ Create something that is more than the example, something you want to turn in an
 */
 ```
 2. Void setup & draw plain bakground
+```processing
+/*   3B - NMD 211 
+     FirstName LastName
+     September 25, 2020
+     
+     Translations & Rotations
+     - ADD WHAT YOU ARE TURNING IN SPECIFICALLY, HERE
+     - ADD QUESTIONS, COMMENTS, CONCERNS ABOUT YOUR CODE
+     - ADD SOURCES
+*/
+void setup(){
+     size( 500, 500);
+     
+     noStroke();
+     ellipseMode( CENTER );
+     rectMode( CENTER );
+}
+void draw(){
+     background(0);
+}
+```
 3. Circle 1 for reference @ 0,0
 4. Circle 2, move via translate
 5. Rect 1, draw
