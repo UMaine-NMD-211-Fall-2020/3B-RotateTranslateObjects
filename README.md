@@ -15,7 +15,18 @@ An example image/ set of moving images with
 Create something that is more than the example, something you want to turn in and share, not just the token motions shown in my example. 
 ## Concept Walk Through via Code
 ### Code Set Up
-1. Comment section
+1. Start the lab with your comments
+```processing
+/*   3B - NMD 211 
+     FirstName LastName
+     September 25, 2020
+     
+     Translations & Rotations
+     - ADD WHAT YOU ARE TURNING IN SPECIFICALLY, HERE
+     - ADD QUESTIONS, COMMENTS, CONCERNS ABOUT YOUR CODE
+     - ADD SOURCES
+*/
+```
 2. Void setup & draw plain bakground
 3. Circle 1 for reference @ 0,0
 4. Circle 2, move via translate
